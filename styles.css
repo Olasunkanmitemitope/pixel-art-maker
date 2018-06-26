@@ -1,0 +1,48 @@
+
+body {
+    text-align: center;
+    background-color:#e8d817;
+}
+
+h1 {
+    font-size:70px;
+    margin:0.5em;
+}
+
+h2 {
+    margin:0.4em;
+}
+
+h2:first-of-type {
+    margin-top:1em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    background-color:white;
+    border: 20px;
+}
+
+tr {
+    height: 25px;
+}
+
+td {
+    width: 25px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+#submit{
+	background-color:#3c3cc4;
+	border-radius: 30%;
+	color: #d73f28;
+}
